@@ -1,0 +1,54 @@
+.purple-bar {
+  background-color: #b19cd9;
+  height: 10px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+}
+h2 {
+  color: #55368f;
+  font-family: Libre Baskerville;
+  font: 400;
+}
+ol {
+  color: #4e367b;
+  font-family: Libre Baskerville;
+  font: 300;
+}
+ul {
+  list-style-type: none;
+  font: 250;
+}
+.purple-box {
+  border: 2px solid #b19cd9;
+  padding: 20px;
+  margin: 20px;
+  box-sizing: border-box;
+}
+.img {
+  height: 800px;
+  width: 900px;
+}
+
+body {
+  background-image: url("./Background.png");
+  background-size: cover;
+}
+h1 {
+  color: #4e367b;
+  font-family: Libre Baskerville;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: rgb(110, 69, 179);
+}
+iframe {
+  display: block;
+  margin: 0%;
+}
+.Link {
+  text-align: right;
+}
